@@ -1,30 +1,32 @@
 1. 여러 개발자가 코딩할떄 편리하려고
-2. 
+2.  
 3. git status
 4. git add
 5. git commit
 6. git diff
-7. 
+7. git status
 8. git은 오프라인+온라인이고 svn은 온라인
 9. .gitignore
 10. 어디다 저장할지 모르니깐.
 11. git log
 12. git pull
 13. git push
-14. vi/vim 다른점은?
-15. vi의 설정을 담은 파일 이름은?
+14. vim이 좀 더 나은 버전.
+15. .vimrc
 16. i
-17.
-18. y : 블럭복사, 행 yank
-d : 블럭 삭제
-p : 현재행 아래에 삭제된 행 삽입
-19.
+17. :number
+18. y : 복사
+d : 삭제
+p : 삽입
+19. shift + v  / ctrl + i
 20. :*, * co *
-21. 
+21. esc
 22. :wq
 23. 
-24. g++
+24. visual c++
 25. o
 26. a.out
 27. .a .so
-28. 
+28. 메모리를 효율적으로 사용 가능.
+29. 있다.
+30. 
