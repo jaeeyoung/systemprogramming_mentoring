@@ -1,5 +1,5 @@
 1. 여러 개발자가 코딩할떄 편리하려고
-2.  
+2. sudo apt-get install git
 3. git status
 4. git add
 5. git commit
@@ -18,15 +18,21 @@
 18. y : 복사
 d : 삭제
 p : 삽입
-19. shift + v  / ctrl + i
-20. :*, * co *
+19. 명령어모드에서 v를 눌러 visual 모드로 전환.
+'h''j''k''l'키를 이용해서 블럭 설정.
+:를 누르고 :norm i# 입력.
+또는 ctrl+v를 눌러 visual block 모드로 전환.
+주석 처리할 만큼 지정한후
+shift+i 누르고 // + esc
+20. 7yy, 4yy
+현재 커서 아래로 7줄 복사, 4줄 복사
 21. esc
 22. :wq
-23. 
+23. lib
 24. visual c++
 25. o
 26. a.out
 27. .a .so
 28. 메모리를 효율적으로 사용 가능.
 29. 있다.
-30. 
+30. :r
